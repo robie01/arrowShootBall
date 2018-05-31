@@ -1,0 +1,313 @@
+fileFormatVersion: 2
+guid: 9a853c49f46976846b0182f44f95386f
+timeCreated: 1457176974
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Pirate Idle
+    21300002: Pirate Walk 1
+    21300004: Pirate Walk 2
+    21300006: Pirate Walk 3
+    21300008: Pirate Walk 4
+    21300010: Pirate Walk 5
+    21300012: Pirate Walk 6
+    21300014: Pirate Walk 7
+    21300016: Pirate Shoot 1
+    21300018: Pirate Shoot 2
+    21300020: Pirate Shoot 3
+    21300022: Pirate Shoot 4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Pirate Idle
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 412
+        width: 168
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: 68.5}
+        - {x: -10, y: 94.5}
+        - {x: -66, y: 94.5}
+        - {x: -84, y: 73.5}
+        - {x: -84, y: -6.5}
+        - {x: -68, y: -94.5}
+        - {x: 2, y: -94.5}
+        - {x: 84, y: -16.5}
+        - {x: 84, y: 5.5}
+        - {x: 50, y: 8.5}
+    - name: Pirate Walk 1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 410
+        width: 168
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 95.5}
+        - {x: -57, y: 95.5}
+        - {x: -84, y: 83.5}
+        - {x: -84, y: -68.5}
+        - {x: -82, y: -94.5}
+        - {x: -77, y: -95.5}
+        - {x: 27, y: -95.5}
+        - {x: 84, y: -46.5}
+        - {x: 84, y: 26.5}
+        - {x: 37, y: 87.5}
+    - name: Pirate Walk 2
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 410
+        width: 168
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: 81.5}
+        - {x: 5, y: 95.5}
+        - {x: -59, y: 95.5}
+        - {x: -84, y: 85.5}
+        - {x: -84, y: 52.5}
+        - {x: -70, y: -88.5}
+        - {x: -61, y: -95.5}
+        - {x: 5, y: -95.5}
+        - {x: 30, y: -91.5}
+        - {x: 84, y: -11.5}
+        - {x: 84, y: 30.5}
+    - name: Pirate Walk 3
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 410
+        width: 169
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80.5, y: 95.5}
+        - {x: -84.5, y: 90.5}
+        - {x: -84.5, y: -55.5}
+        - {x: -81.5, y: -82.5}
+        - {x: -67.5, y: -95.5}
+        - {x: 21.5, y: -95.5}
+        - {x: 84.5, y: -15.5}
+        - {x: 84.5, y: 30.5}
+        - {x: -2.5, y: 95.5}
+    - name: Pirate Walk 4
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 209
+        width: 169
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 95}
+        - {x: -58.5, y: 95}
+        - {x: -84.5, y: 83}
+        - {x: -84.5, y: 7}
+        - {x: -67.5, y: -87}
+        - {x: -65.5, y: -95}
+        - {x: 15.5, y: -95}
+        - {x: 84.5, y: -14}
+        - {x: 84.5, y: 5}
+        - {x: 34.5, y: 60}
+    - name: Pirate Walk 5
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 208
+        width: 168
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 95.5}
+        - {x: -62, y: 95.5}
+        - {x: -84, y: 85.5}
+        - {x: -84, y: -72.5}
+        - {x: -82, y: -95.5}
+        - {x: 11, y: -95.5}
+        - {x: 84, y: -11.5}
+        - {x: 84, y: 5.5}
+        - {x: 31, y: 62.5}
+    - name: Pirate Walk 6
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 206
+        width: 169
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65.5, y: 94.5}
+        - {x: -84.5, y: 81.5}
+        - {x: -84.5, y: -28.5}
+        - {x: -77.5, y: -87.5}
+        - {x: -65.5, y: -94.5}
+        - {x: 34.5, y: -94.5}
+        - {x: 84.5, y: -59.5}
+        - {x: 84.5, y: 27.5}
+        - {x: 19.5, y: 94.5}
+    - name: Pirate Walk 7
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 206
+        width: 168
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: 94.5}
+        - {x: -84, y: 77.5}
+        - {x: -84, y: -94.5}
+        - {x: 63, y: -94.5}
+        - {x: 84, y: -40.5}
+        - {x: 84, y: 32.5}
+        - {x: -15, y: 94.5}
+    - name: Pirate Shoot 1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 5
+        width: 173
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5, y: 94}
+        - {x: -61.5, y: 94}
+        - {x: -86.5, y: 85}
+        - {x: -86.5, y: -18}
+        - {x: -63.5, y: -94}
+        - {x: 3.5, y: -94}
+        - {x: 8.5, y: -87}
+        - {x: 86.5, y: -3}
+        - {x: 86.5, y: 29}
+    - name: Pirate Shoot 2
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 5
+        width: 178
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 78, y: 44}
+        - {x: 17, y: 92}
+        - {x: -63, y: 92}
+        - {x: -89, y: 53}
+        - {x: -89, y: 10}
+        - {x: -59, y: -92}
+        - {x: 15, y: -92}
+        - {x: 89, y: 25}
+        - {x: 89, y: 39}
+        - {x: 88, y: 44}
+    - name: Pirate Shoot 3
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 5
+        width: 150
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: 90.5}
+        - {x: -75, y: 64.5}
+        - {x: -75, y: 35.5}
+        - {x: -67, y: 31.5}
+        - {x: -54, y: 27.5}
+        - {x: -44, y: -90.5}
+        - {x: 31, y: -90.5}
+        - {x: 75, y: -16.5}
+        - {x: 75, y: 90.5}
+    - name: Pirate Shoot 4
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 5
+        width: 128
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36, y: 90.5}
+        - {x: -45, y: 90.5}
+        - {x: -64, y: 74.5}
+        - {x: -64, y: -3.5}
+        - {x: -33, y: -90.5}
+        - {x: 39, y: -90.5}
+        - {x: 64, y: -28.5}
+        - {x: 64, y: 31.5}
+        - {x: 48, y: 83.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

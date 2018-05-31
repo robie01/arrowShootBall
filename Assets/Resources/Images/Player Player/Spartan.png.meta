@@ -1,0 +1,297 @@
+fileFormatVersion: 2
+guid: b3d3220262e63c045851f152ee623462
+timeCreated: 1457177638
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Spartan Idle
+    21300002: Spartan Walk 1
+    21300004: Spartan Walk 2
+    21300006: Spartan Walk 3
+    21300008: Spartan Walk 4
+    21300010: Spartan Walk 5
+    21300012: Spartan Walk 6
+    21300014: Spartan Walk 7
+    21300016: Spartan Shoot 1
+    21300018: Spartan Shoot 2
+    21300020: Spartan Shoot 3
+    21300022: Spartan Shoot 4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Spartan Idle
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 413
+        width: 164
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -74, y: 76}
+        - {x: -82, y: 37}
+        - {x: -82, y: -72}
+        - {x: -72, y: -76}
+        - {x: 34, y: -76}
+        - {x: 82, y: -2}
+        - {x: 82, y: 41}
+        - {x: 8, y: 76}
+    - name: Spartan Walk 1
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 411
+        width: 164
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72, y: 77}
+        - {x: -82, y: 17}
+        - {x: -82, y: -77}
+        - {x: 62, y: -77}
+        - {x: 82, y: -72}
+        - {x: 82, y: 46}
+        - {x: 2, y: 77}
+    - name: Spartan Walk 2
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 411
+        width: 164
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -82, y: -75}
+        - {x: -80, y: -77}
+        - {x: 23, y: -77}
+        - {x: 82, y: -49}
+        - {x: 82, y: 53}
+        - {x: 63, y: 77}
+        - {x: -71, y: 77}
+        - {x: -82, y: 50}
+    - name: Spartan Walk 3
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 412
+        width: 164
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 77}
+        - {x: -72, y: 77}
+        - {x: -82, y: 27}
+        - {x: -82, y: -66}
+        - {x: -69, y: -77}
+        - {x: 24, y: -77}
+        - {x: 82, y: -26}
+        - {x: 82, y: 24}
+        - {x: 71, y: 28}
+    - name: Spartan Walk 4
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 209
+        width: 165
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70.5, y: 78}
+        - {x: -82.5, y: -30}
+        - {x: -82.5, y: -56}
+        - {x: -69.5, y: -76}
+        - {x: -54.5, y: -78}
+        - {x: -17.5, y: -78}
+        - {x: 82.5, y: -44}
+        - {x: 82.5, y: 56}
+        - {x: 65.5, y: 78}
+    - name: Spartan Walk 5
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 208
+        width: 164
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72, y: 78.5}
+        - {x: -82, y: -23.5}
+        - {x: -82, y: -57.5}
+        - {x: -72, y: -78.5}
+        - {x: 25, y: -78.5}
+        - {x: 82, y: -39.5}
+        - {x: 82, y: 30.5}
+        - {x: 1, y: 78.5}
+    - name: Spartan Walk 6
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 206
+        width: 164
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 77.5}
+        - {x: -73, y: 77.5}
+        - {x: -82, y: -15.5}
+        - {x: -82, y: -70.5}
+        - {x: -69, y: -77.5}
+        - {x: 9, y: -77.5}
+        - {x: 82, y: 1.5}
+        - {x: 82, y: 23.5}
+        - {x: 48, y: 26.5}
+    - name: Spartan Walk 7
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 206
+        width: 165
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.5, y: 77.5}
+        - {x: -70.5, y: 77.5}
+        - {x: -82.5, y: 0.5}
+        - {x: -82.5, y: -62.5}
+        - {x: -78.5, y: -76.5}
+        - {x: -75.5, y: -77.5}
+        - {x: 13.5, y: -77.5}
+        - {x: 69.5, y: -23.5}
+        - {x: 82.5, y: 5.5}
+        - {x: 82.5, y: 34.5}
+    - name: Spartan Shoot 1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 6
+        width: 164
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -82, y: 79.5}
+        - {x: -82, y: -79.5}
+        - {x: -2, y: -79.5}
+        - {x: 82, y: 11.5}
+        - {x: 82, y: 43.5}
+        - {x: 14, y: 79.5}
+    - name: Spartan Shoot 2
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 6
+        width: 162
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -74, y: 80}
+        - {x: -81, y: 64}
+        - {x: -81, y: -80}
+        - {x: -1, y: -80}
+        - {x: 81, y: 22}
+        - {x: 81, y: 80}
+    - name: Spartan Shoot 3
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 5
+        width: 132
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 81}
+        - {x: -66, y: 54}
+        - {x: -66, y: -59}
+        - {x: -53, y: -81}
+        - {x: 25, y: -81}
+        - {x: 66, y: 34}
+        - {x: 66, y: 81}
+    - name: Spartan Shoot 4
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 5
+        width: 110
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 85.5}
+        - {x: 1, y: 84.5}
+        - {x: -55, y: 50.5}
+        - {x: -55, y: -71.5}
+        - {x: -50, y: -85.5}
+        - {x: 25, y: -85.5}
+        - {x: 55, y: -6.5}
+        - {x: 55, y: 29.5}
+        - {x: 29, y: 85.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
